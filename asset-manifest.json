@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/faceDetector/static/css/main.4f189dd1.chunk.css",
+    "main.js": "/faceDetector/static/js/main.67340558.chunk.js",
+    "main.js.map": "/faceDetector/static/js/main.67340558.chunk.js.map",
+    "runtime-main.js": "/faceDetector/static/js/runtime-main.d422b28b.js",
+    "runtime-main.js.map": "/faceDetector/static/js/runtime-main.d422b28b.js.map",
+    "static/css/2.31461e4f.chunk.css": "/faceDetector/static/css/2.31461e4f.chunk.css",
+    "static/js/2.f9dc3077.chunk.js": "/faceDetector/static/js/2.f9dc3077.chunk.js",
+    "static/js/2.f9dc3077.chunk.js.map": "/faceDetector/static/js/2.f9dc3077.chunk.js.map",
+    "index.html": "/faceDetector/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/faceDetector/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.4f189dd1.chunk.css.map": "/faceDetector/static/css/main.4f189dd1.chunk.css.map",
+    "static/js/2.f9dc3077.chunk.js.LICENSE.txt": "/faceDetector/static/js/2.f9dc3077.chunk.js.LICENSE.txt",
+    "static/media/bulb.cade1cbf.png": "/faceDetector/static/media/bulb.cade1cbf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d422b28b.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.f9dc3077.chunk.js",
+    "static/css/main.4f189dd1.chunk.css",
+    "static/js/main.67340558.chunk.js"
+  ]
+}
