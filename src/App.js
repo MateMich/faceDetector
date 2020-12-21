@@ -98,7 +98,7 @@ class App extends Component {
         .then(response=>response.json())
         .then(response => {
           if (response) {
-            fetch('https://rocky-brushlands-47629.herokuapp.com//image',
+            fetch('https://rocky-brushlands-47629.herokuapp.com/image',
               {
                 method: 'put',
                 headers: { 'content-Type': 'application/json' },
